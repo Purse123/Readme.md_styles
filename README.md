@@ -16,3 +16,5 @@ console.log('Code Tab A');
 - Embeds<br>
 [YouTube](https://www.youtube.com/)
 <br>
+- image<br>
+![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
